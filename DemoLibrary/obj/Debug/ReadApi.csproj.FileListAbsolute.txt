@@ -1,0 +1,12 @@
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\ReadApi.csprojAssemblyReference.cache
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\ReadApi.csproj.CoreCompileInputs.cache
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\ReadApi.csproj.CopyComplete
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\ReadApi.dll.config
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\ReadApi.dll
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\ReadApi.pdb
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\ReadApi.dll
+E:\Demos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\ReadApi.pdb
